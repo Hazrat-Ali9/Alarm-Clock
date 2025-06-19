@@ -33,6 +33,6 @@ To use the Alarm Clock, follow these steps:
 
 Contributions are welcome! Feel free to open issues or pull requests to improve this Basic Alarm Clock.
 
-## License
+# [MIT License](LICENSE)
 
-This project is licensed under the Apache License.
+
