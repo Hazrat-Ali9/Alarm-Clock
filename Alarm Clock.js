@@ -3,7 +3,7 @@ const alarmSubmit = document.getElementById('alarmSubmit');
 
 // Add an event listener to the submit button
 alarmSubmit.addEventListener('click', setAlarm);
-
+// Audio added
 var audio = new Audio('BigAlarm.mp3');
 
 // function to play the alarm ring tone
